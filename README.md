@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/giftedtechnexus/Gifted-Md">
-    <img alt="LUCIFER docs" height="300" src="">
+    <img alt="LUCIFER docs" height="300" src=""> https://telegra.ph/file/b6a1210431ae18d99ab60.jpg
   </a>
 </p>
     
@@ -41,7 +41,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/giftedtechnexus/Gifted-Md"><b>Gifted-Bot V.2.0.0</b></a> Support Deploy On...
+  <a href="https://github.com/giftedtechnexus/Gifted-Md"><b>lucifer-Bot V.2.0.0</b></a> Support Deploy On...
 </p>
 
 <p align="center">
@@ -49,9 +49,9 @@
   <a href="https://railway.app/template/GZOvIe?referralCode=wVDLrh"><img src="https://img.shields.io/badge/railway-3e164f?style=for-the-badge&logo=railway&logoColor=0B0D0E"></a>
 </p>
 <p align="center">
-  <a href="https://deploy-giftedv2.vercel.app"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
+  <a href="https://deploy-lucifer md v2.vercel.app"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
   <a href="https://suhail-web01.vercel.app/replit.html"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
-  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/giftedtechnexus/Gifted-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=254714817771&env[MONGODB_URI]&&env[OWNER_NAME]=ɢɪғᴛᴇᴅ ᴛᴇᴄʜ&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=ɢɪғᴛᴇᴅ ᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=lucidee&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Nairobi&name=gifted-tech&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/54efddccf41281ad7ec51.jpg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
+  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/giftedtechnexus/Gifted-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=254714817771&env[MONGODB_URI]&&env[OWNER_NAME]=ɢɪғᴛᴇᴅ ᴛᴇᴄʜ&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]= lucifer md ᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=public&env[READ_MESSAGE]=false&env[THEME]=lucifer&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Nairobi&name=ian nebe gareane-tech&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=[https://telegra.ph/file/54efddccf41281ad7ec51.jpg](https://telegra.ph/file/b6a1210431ae18d99ab60.jpg)"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
 </p>
 <p align="center">
   <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
@@ -70,8 +70,8 @@
 6.  ***Rolling Dice.***
 7.  ***Character Guessing Game(cgg).***
 8.  ***Capital of City Finding(ccf).***
+9. ***gta 5***
 ##
-
 
  <h3>lucifer-MD V.2.0.0 Stats</h3>
 
@@ -101,7 +101,8 @@
 
 
 ### I Am
-- [Ian nebe Gareane Tech](https://github.com/giftedtechnexus) 
+- [Ian nebe Gareane Tech]
+- ]https://telegra.ph/file/b6a1210431ae18d99ab60.jpg
 
 
 
@@ -116,5 +117,5 @@
 - [`Deploy on Heroku`]( https://deploy-giftedv2.vercel.app)
 
 ### Credits To:
-- [jiana my love](254 748 462102) 
+- [ my love](254 748 462102) 
 
