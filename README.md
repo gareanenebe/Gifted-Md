@@ -1,4 +1,4 @@
-[![Gifted MD V.2.0.0](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=1FC40A&background=F7F2F20A&align=center&random=false&width=800&lines=Hello+Everyone%F0%9F%91%8B!;I+am+Gifted-MD+V.2.0.0;I+am+Programmed+by+Gifted+Tech;Gifted+Tech+is+a+Self+Learned+Fronted+Developer;He+is+from+East+Africa-Kenya)](https://github.com/giftedtechnexus/Gifted-Md)
+[![LUCIFER MD V.2.0.0](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=1FC40A&background=F7F2F20A&align=center&random=false&width=800&lines=Hello+Everyone%F0%9F%91%8B!;I+am+Lucifer-MD+V.2.0.0;I+am+Programmed+by+ian nebe gareane+Tech;isn nebe Gareane+Tech+is+a+Self+Learned+Fronted+Developer;He+is+from+East+Africa-Kenya)](https://github.com/giftedtechnexus/Gifted-Md)
 
  <h1 align="center"> ɢɪғᴛᴇᴅ ᴍᴅ Version 2.0.0 </h1> 
  <br>
@@ -9,22 +9,22 @@
 
 <p align="center">
   <a href="https://github.com/giftedtechnexus/Gifted-Md">
-    <img alt="Gifted docs" height="300" src="https://telegra.ph/file/54efddccf41281ad7ec51.jpg">
+    <img alt="Gifted docs" height="300" src="">
   </a>
 </p>
     
    
    
 <p align="center">
-  <a href="https://wa.me/+254728782591?text=Hi+Bro--+I+Need+Help.+I've+messaged+you+from+ɢɪғᴛᴇᴅ ʙᴏᴛ+Repo" target="_blank">
+  <a href="https://wa.me/+254714817771?text=Hi+Bro--+I+Need+Help.+I've+messaged+you+from+ɢɪғᴛᴇᴅ ʙᴏᴛ+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
   <a aria-label="ɢɪғᴛᴇᴅ ʙᴏᴛ v.2.0.0 is free to use" href="https://github.com/giftedtechnexus/Gifted-Md" target="_blank">
-    <img alt="GiftedTech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+    <img alt="ian nebe GareaneTech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{giftedtechnexus}/count.svg" alt="ɢɪғᴛᴇᴅ ᴍᴅ :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{ian nebe Gareane technexus}/count.svg" alt="ɢɪғᴛᴇᴅ ᴍᴅ :: Visitor's Count" /></p>
 
 ---
 
@@ -51,7 +51,7 @@
 <p align="center">
   <a href="https://deploy-giftedv2.vercel.app"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
   <a href="https://suhail-web01.vercel.app/replit.html"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
-  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/giftedtechnexus/Gifted-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=254762016957&env[MONGODB_URI]&&env[OWNER_NAME]=ɢɪғᴛᴇᴅ ᴛᴇᴄʜ&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=ɢɪғᴛᴇᴅ ᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=GIFTED&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Nairobi&name=gifted-tech&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/54efddccf41281ad7ec51.jpg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
+  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/giftedtechnexus/Gifted-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=254714817771&env[MONGODB_URI]&&env[OWNER_NAME]=ɢɪғᴛᴇᴅ ᴛᴇᴄʜ&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=ɢɪғᴛᴇᴅ ᴛᴇᴄʜ&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=lucidee&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Nairobi&name=gifted-tech&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/54efddccf41281ad7ec51.jpg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
 </p>
 <p align="center">
   <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
@@ -60,7 +60,7 @@
 
 
 
-## Some of Gifted-Md Bot Games:
+## Some of lucifee-Md Bot Games:
 ---
 1. ***Connect Four Game(cfg).***
 2.  ***Tic Tac Toe.***
@@ -73,16 +73,16 @@
 ##
 
 
- <h3>Gifted-MD V.2.0.0 Stats</h3>
+ <h3>lucifer-MD V.2.0.0 Stats</h3>
 
-![Giftd-mdV2 Stats](https://github-readme-stats.vercel.app/api/pin/?username=giftedtechnexus&repo=Gifted-Md&show_owner=true&theme=dark)
+!Lucifer-mdV2 Stats](https://github-readme-stats.vercel.app/api/pin/?username=giftedtechnexus&repo=Gifted-Md&show_owner=true&theme=dark)
 
 
 
 
     
    
-## Gifted-Md V.2.0.0 Deployment Methods
+## lucifer-Md V.2.0.0 Deployment Methods
 ---
 1.  ***Click [`FORK`](https://github.com/giftedtechnexus/Gifted-Md/fork) and `Star ⭐ Repository` for Courage.***
 2.  ***Get `SESSION ID`  [`BY CLICKING HERE`](https://session.giftedtechnexus.co.ke) And then `Go-to Whatapp>Three dots>Linked Devices`***
@@ -97,11 +97,11 @@
 
 
 - Star ⭐ repo if you like this bot.
-- If any problem, then [`Whatsapp Me Here`](https://wa.me/message/NHCZC5DSOEUXB1)
+- If any problem, then [`Whatsapp Me Here`](https://wa.me/message/4CGGNOJOPPP4P1)
 
 
 ### I Am
-- [Gifted Tech](https://github.com/giftedtechnexus) 
+- [Ian nebe Gareane Tech](https://github.com/giftedtechnexus) 
 
 
 
@@ -110,11 +110,11 @@
 </h2>
    
 ## 
-- *Gifted-Bot-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
-- *In that case, I'm not responsible for banning your account.*
-- *Use Gifted-Bot-Md at your own risk by keeping this warning in mind.*
+- *lucifer-Bot-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *In that case, I'm not responsible for banning your account. sawa mtu wangu*
+- *Use lucifer-Bot-Md at your own risk by keeping this warning in mind.*
 - [`Deploy on Heroku`]( https://deploy-giftedv2.vercel.app)
 
 ### Credits To:
-- [SuhailTechInfo](https://github.com/SuhailTechInfo) 
+- [jiana my love](254 748 462102) 
 
